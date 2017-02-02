@@ -1,4 +1,4 @@
-//Christopher Clarizio CSE20311 11/04/2016
+//Christopher Clarizio
 //Driver program for Conway's game of Life
 
 #include <fstream>
